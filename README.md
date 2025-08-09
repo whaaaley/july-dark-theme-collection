@@ -1,6 +1,6 @@
 # July Dark 2025 Theme Collection
 
-Started as a mashup of One Dark and GitHub Dark Dimmed with tweaks. The most noticeable tweaks are a pinkish adjustment to the red and making the green appear less emerald and more natural green. The goal isn't to be flashy but to be usable and familiar - something you won't get tired of looking at and is actually helpful, bringing semantic awareness to your code.
+Started as a mashup of One Dark and GitHub Dark Dimmed with tweaks. The most noticeable tweaks are a pinkish adjustment to the red and making the green appear less emerald and more natural green. The goal isn't to be flashy but to be usable and familiar - something you won't get tired of looking at and is actually helpful, bringing semantic awareness to your code. Semantic consistency across applications is a priority, ensuring colors mean the same thing whether you're in your terminal, editor, or other development tools.
 
 ## Theme Files
 
@@ -11,24 +11,24 @@ Started as a mashup of One Dark and GitHub Dark Dimmed with tweaks. The most not
 
 | Color | Hex Code | Preview |
 |-------|----------|---------|
-| Background | `#20252B` | ![#20252B](https://via.placeholder.com/20/20252B/20252B.png) |
-| Foreground | `#CDD9E5` | ![#CDD9E5](https://via.placeholder.com/20/CDD9E5/CDD9E5.png) |
-| Black | `#2D333B` | ![#2D333B](https://via.placeholder.com/20/2D333B/2D333B.png) |
-| Bright Black | `#768390` | ![#768390](https://via.placeholder.com/20/768390/768390.png) |
-| Red | `#F47067` | ![#F47067](https://via.placeholder.com/20/F47067/F47067.png) |
-| Bright Red | `#FF938A` | ![#FF938A](https://via.placeholder.com/20/FF938A/FF938A.png) |
-| Green | `#A4D681` | ![#A4D681](https://via.placeholder.com/20/A4D681/A4D681.png) |
-| Bright Green | `#A4D681` | ![#A4D681](https://via.placeholder.com/20/A4D681/A4D681.png) |
-| Yellow | `#F8A558` | ![#F8A558](https://via.placeholder.com/20/F8A558/F8A558.png) |
-| Bright Yellow | `#F3D378` | ![#F3D378](https://via.placeholder.com/20/F3D378/F3D378.png) |
-| Blue | `#6CB6FF` | ![#6CB6FF](https://via.placeholder.com/20/6CB6FF/6CB6FF.png) |
-| Bright Blue | `#6CB6FF` | ![#6CB6FF](https://via.placeholder.com/20/6CB6FF/6CB6FF.png) |
-| Purple | `#BB92F3` | ![#BB92F3](https://via.placeholder.com/20/BB92F3/BB92F3.png) |
-| Bright Purple | `#DCBDFB` | ![#DCBDFB](https://via.placeholder.com/20/DCBDFB/DCBDFB.png) |
-| Cyan | `#92D6C6` | ![#92D6C6](https://via.placeholder.com/20/92D6C6/92D6C6.png) |
-| Bright Cyan | `#92D6C6` | ![#92D6C6](https://via.placeholder.com/20/92D6C6/92D6C6.png) |
-| White | `#ADBAC7` | ![#ADBAC7](https://via.placeholder.com/20/ADBAC7/ADBAC7.png) |
-| Bright White | `#CDD9E5` | ![#CDD9E5](https://via.placeholder.com/20/CDD9E5/CDD9E5.png) |
+| Background | `#20252B` | ![#20252B](https://placehold.co/20/20252B/20252B.png) |
+| Foreground | `#CDD9E5` | ![#CDD9E5](https://placehold.co/20/CDD9E5/CDD9E5.png) |
+| Black | `#2D333B` | ![#2D333B](https://placehold.co/20/2D333B/2D333B.png) |
+| Bright Black | `#768390` | ![#768390](https://placehold.co/20/768390/768390.png) |
+| Red | `#F47067` | ![#F47067](https://placehold.co/20/F47067/F47067.png) |
+| Bright Red | `#FF938A` | ![#FF938A](https://placehold.co/20/FF938A/FF938A.png) |
+| Green | `#A4D681` | ![#A4D681](https://placehold.co/20/A4D681/A4D681.png) |
+| Bright Green | `#A4D681` | ![#A4D681](https://placehold.co/20/A4D681/A4D681.png) |
+| Yellow | `#F8A558` | ![#F8A558](https://placehold.co/20/F8A558/F8A558.png) |
+| Bright Yellow | `#F3D378` | ![#F3D378](https://placehold.co/20/F3D378/F3D378.png) |
+| Blue | `#6CB6FF` | ![#6CB6FF](https://placehold.co/20/6CB6FF/6CB6FF.png) |
+| Bright Blue | `#6CB6FF` | ![#6CB6FF](https://placehold.co/20/6CB6FF/6CB6FF.png) |
+| Purple | `#BB92F3` | ![#BB92F3](https://placehold.co/20/BB92F3/BB92F3.png) |
+| Bright Purple | `#DCBDFB` | ![#DCBDFB](https://placehold.co/20/DCBDFB/DCBDFB.png) |
+| Cyan | `#92D6C6` | ![#92D6C6](https://placehold.co/20/92D6C6/92D6C6.png) |
+| Bright Cyan | `#92D6C6` | ![#92D6C6](https://placehold.co/20/92D6C6/92D6C6.png) |
+| White | `#ADBAC7` | ![#ADBAC7](https://placehold.co/20/ADBAC7/ADBAC7.png) |
+| Bright White | `#CDD9E5` | ![#CDD9E5](https://placehold.co/20/CDD9E5/CDD9E5.png) |
 
 ## Semantic Rules
 
