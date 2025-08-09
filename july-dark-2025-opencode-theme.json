@@ -156,8 +156,8 @@
       "light": "lightGreen"
     },
     "markdownBlockQuote": {
-      "dark": "darkFgMuted",
-      "light": "lightFgMuted"
+      "dark": "darkGreen",
+      "light": "lightGreen"
     },
     "markdownEmph": {
       "dark": "darkYellow",
