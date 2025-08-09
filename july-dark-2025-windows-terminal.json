@@ -1,0 +1,27 @@
+{
+    "schemes": [
+        {
+            "background": "#20252B",
+            "black": "#2D333B",
+            "blue": "#6CB6FF",
+            "brightBlack": "#768390",
+            "brightBlue": "#6CB6FF",
+            "brightCyan": "#92D6C6",
+            "brightGreen": "#A4D681",
+            "brightPurple": "#DCBDFB",
+            "brightRed": "#FF938A",
+            "brightWhite": "#CDD9E5",
+            "brightYellow": "#F3D378",
+            "cursorColor": "#CDD9E5",
+            "cyan": "#92D6C6",
+            "foreground": "#CDD9E5",
+            "green": "#A4D681",
+            "name": "July Dark 2025",
+            "purple": "#BB92F3",
+            "red": "#F47067",
+            "selectionBackground": "#768390",
+            "white": "#ADBAC7",
+            "yellow": "#F8A558"
+        }
+    ]
+}
